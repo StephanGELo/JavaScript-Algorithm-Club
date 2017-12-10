@@ -12,5 +12,5 @@ describe('1. Two Sum', function() {
 		expect(twoSum([1, 2, 3, 4, 5, 6], 20)).to.eql([]);
 		expect(twoSum([1, 10, 100, 1000, 10000], 20)).to.eql([]);
 		expect(twoSum([-10, -3, -1, 5, 10], -8)).to.eql([]);
-	});
+	}); 
 });
