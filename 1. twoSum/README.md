@@ -1,1 +1,11 @@
 Two Sum Problem
+
+Original Source: https://leetcode.com/problems/two-sum/description/
+
+Given an array of integers, return indices of the two numbers such that they add up to a specific target.
+You may assume that each input would have exactly one solution, and you may not use the same element twice.
+
+```javascript
+twoSum([1, 2, 5, 6, 9], 10) // -> [0, 4]
+twoSum([-3, -1, 2, 9, 11], -4) // -> [0, 1]
+```
