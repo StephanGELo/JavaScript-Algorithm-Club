@@ -1,4 +1,4 @@
-threeSum problem
+# threeSum problem
 
 Given an array of integers, return indices of the three numbers such that they add up to a specific target.
 You may assume that each input would have exactly one solution, and you may not use the same element twice.
@@ -15,6 +15,7 @@ threeSum([-11, -4, -1, 2, 7, 12], 1) // -> []
 threeSum([1, 10, 100, 1000, 10000], 1111) // -> []
 ```
 
-time complexity goal: ### O(nlog_n)
-space complexity goal: ### O(n)
+time complexity goal: O(nlog_n)
+
+space complexity goal: O(n)
 
