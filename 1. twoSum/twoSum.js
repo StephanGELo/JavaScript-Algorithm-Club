@@ -4,7 +4,7 @@
 // You may assume that each input would have exactly one solution, and you may not use the same element twice.
 
 /**
- * @param {number[]} nums
+ * @param {number[]} numsArray
  * @param {number} target
  * @return {number[]}
  */
