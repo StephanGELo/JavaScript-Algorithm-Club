@@ -14,9 +14,7 @@ twoSum([-3, -1, 2, 9, 11], -4) // -> [0, 1]
 twoSum([-4, 1, 2, 9], 2) // -> []
 twoSum([-9, -2, 4, 10], 100) // -> []
 ```
-<<<<<<< HEAD
 
 time complexity goal: ### O(n)
 space complexity goal: ### O(n)
-=======
->>>>>>> 00f2b07e2a20ed64b1b2c74f9f8eb011879e0bb2
+
