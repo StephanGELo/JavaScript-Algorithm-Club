@@ -1,4 +1,4 @@
-Two Sum Problem
+# Two Sum
 
 Original Source: https://leetcode.com/problems/two-sum/description/
 
